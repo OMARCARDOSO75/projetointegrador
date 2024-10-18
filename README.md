@@ -1,2 +1,2 @@
 # projetointegrador
-Proejto Integrador UNIVESP sobre análise de dados IoT
+Projeto Integrador UNIVESP sobre análise de dados IoT
